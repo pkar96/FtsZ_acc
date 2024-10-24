@@ -1,1 +1,1 @@
-Get Params for the different simulation programs
+Get parameters for the different simulation programs. Run call.m to get the parameters
